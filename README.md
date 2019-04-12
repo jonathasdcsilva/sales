@@ -4,7 +4,7 @@
 Instructions
 
 1) Configure the path for the gson-2.8.2.jar and junit4-4.8.2.jar in your buildpath.
-2) Put the messages.json file in the path: C:\messages.json
+2) Put the messages.json file in the path: C:\messages.json. If you want to change this path you have to do it manualy in the readJson method at the SalesProcessor class.
 3) The main method is in the class Program at sc.com.jpmorgan.sales.program folder.
 4) There is a test class int the sc.com.jpmorgan.sales.test folder
 
